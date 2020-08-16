@@ -3,7 +3,7 @@ Web scraping basics with BeautifulSoup in Python with Jupyter Notebook.
 
 In this notebook, I will be exploring basics of web scraping.
 
-1. I will be using BeatifulSoup to parse HTML.
+1. I will be using BeautifulSoup to parse HTML.
 2. I will locate elements find(), find_all() methods.
 3. I will find elements by tag or attribute.
 4. I will retrieve attributes like links.
